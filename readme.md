@@ -25,6 +25,12 @@ Also check out Dalek Pinpoint, a clean and precise version of the Dalek typeface
 
 Licence URL: http://www.k-type.com/licences
 
+Commercial Licence (Normal Licence)
+
+A Commercial Licence grants you non-exclusive rights to use fonts for normal graphic design purposes in print and on screen. Fonts may be stored on up to five workstations and output devices belonging to you; multiple licences can be purchased where more seats are required. You cannot legally give fonts to others or install it on their machines (with the exception of co-workers, your designer and your service bureau). You can embed fonts securely in non-editable documents.
+
+A Commercial Licence permits @font-face use without any pageview limitations. Basic form field inputs are permitted, for example a search box or contact form, but providing remote users with the ability to edit, personalise and dynamically generate design using webfonts is not allowed. To incorporate a K-Type font file within your software product or your website to create user-generated graphics ‘on the fly’, or for use on an unlimited number of workstations, a more comprehensive Enterprise Licence should be purchased from k-type.com
+
 ------------------------------------------------
 
 == Installing Fonts ==
